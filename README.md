@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**vismitmv/vismitmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi welcome to my profile 
 
 - 🔭 I’m currently working on linux , ethical hacking.
 - 🌱 I’m currently learning c , c++ and python.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can always contact me at variavismit@gmail.com .
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I have too much interest in linux and i just love cybersecurity.
-
+- 
