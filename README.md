@@ -8,4 +8,3 @@
 - 📫 How to reach me: You can always contact me at variavismit@gmail.com .
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I have too much interest in linux and i just love cybersecurity.
-- 
